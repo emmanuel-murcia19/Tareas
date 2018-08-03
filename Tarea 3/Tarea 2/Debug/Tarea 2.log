@@ -1,0 +1,5 @@
+﻿  cuenta.cpp
+c:\users\emmanuel\source\repos\tarea 2\tarea 2\cuenta.cpp(10): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+  Generating Code...
+  Tarea 2.vcxproj -> C:\Users\Emmanuel\source\repos\Tarea 2\Debug\Clase Cuenta.exe
